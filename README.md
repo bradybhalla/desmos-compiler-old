@@ -1,3 +1,6 @@
+# IMPORTANT NOTE
+This is the old version of desmos-compiler which I made before I really learned anything about compilers or even assembly. I'm keeping this branch here for future reference, but you should really be on the main branch instead.
+
 # desmos-compiler
 
 Compile a C-like language to run in the [Desmos graphing calculator](https://www.desmos.com/calculator). The language currently supports variable definitions, scoping, if statements, while loops, and functions (with recursion).
