@@ -1,5 +1,5 @@
 # IMPORTANT NOTE
-This is the old version of desmos-compiler which I made before I really learned anything about compilers or even assembly. I'm working on a new version [here](https://github.com/bradybhalla/desmos-compiler), so go visit that one instead.
+This is the old version of desmos-compiler which I made before I really learned anything about compilers or even assembly. I'm working on a completely new version [here](https://github.com/bradybhalla/desmos-compiler), so go visit that one instead.
 
 Archived on 4/2/2026.
 
